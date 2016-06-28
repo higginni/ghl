@@ -258,10 +258,10 @@ img {
   
   height: 100%;
   background: #6B8BFF; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(left, #6B8BFF, #00F559); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(left, #6B8BFF, #00F559); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(left, #6B8BFF, #00F559); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(left, #6B8BFF, #00F559); /* Standard syntax */
+  background: -webkit-linear-gradient(left, #6B8BFF, #3CB371); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(left, #6B8BFF, #3CB371); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(left, #6B8BFF, #3CB371); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(left, #6B8BFF, #3CB371); /* Standard syntax */
 }
 .class_center{
   color:white;
@@ -4729,10 +4729,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default {
   background: #6B8BFF; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(left, #6B8BFF, #00F559); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(left, #6B8BFF, #00F559); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(left, #6B8BFF, #00F559); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(left, #6B8BFF, #00F559); /* Standard syntax */
+  background: -webkit-linear-gradient(left, #6B8BFF, #3CB371); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(left, #6B8BFF, #3CB371); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(left, #6B8BFF, #3CB371); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(left, #6B8BFF, #3CB371); /* Standard syntax */
 }
 .navbar-default .navbar-brand {
   color: #777;
