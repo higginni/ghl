@@ -87,6 +87,10 @@ sub {
 img {
   border: 0;
 }
+
+.footer-class{
+  text-align: left;
+}
 #social .social-item {
   height: 100%;
   margin: 0 0 15px;
