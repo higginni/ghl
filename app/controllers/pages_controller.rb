@@ -16,4 +16,7 @@ class PagesController < ApplicationController
 
   def for_employers
   end
+  
+  def testimonials
+  end
 end
