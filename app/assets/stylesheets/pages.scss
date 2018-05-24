@@ -49,3 +49,18 @@ hr.style1 {
     }
   }
 }
+
+footer {
+  display: flex;
+  padding: 50px;
+
+  #left {
+    justify-content: space-around;
+    margin-right: auto;
+  }
+
+  #right {
+    justify-content: space-around;
+    margin-left: auto;
+  }
+}
